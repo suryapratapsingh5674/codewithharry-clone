@@ -105,17 +105,17 @@ p{
 }
 
 .k{
-    background-color: blueviolet;
+    background-color: rgb(86, 86, 184);
     border: none;
     border-radius: 30px;
     color: white;
     padding: 8px;
-    margin:5px;
+    margin-bottom: 5px;
     font-weight: 30px;
 }
 .k:hover{
     cursor: pointer;
-    background-color: rgb(160, 116, 202);
+    background-color: rgb(31, 31, 124);
 }
 
 #c{
